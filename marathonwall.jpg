@@ -1,0 +1,725 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head id="ctl00_Head1">
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5SV2GZL');</script>
+    <!-- End Google Tag Manager -->
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="0eb92e1f-b515-4908-a5af-1e0658251e99" data-blockingmode="auto"  data-framework="IAB" type="text/javascript"></script><title>
+	Marathon Deli mural by Dr. Rickamortis - College Park, Maryland - Murals on Waymarking.com
+</title><meta name="description" content="Waymarking.com&#32;is&#32;a&#32;way&#32;to&#32;mark&#32;unique&#32;locations&#32;on&#32;the&#32;planet&#32;and&#32;give&#32;them&#32;a&#32;voice.&#32;While&#32;GPS&#32;technology&#32;allows&#32;us&#32;to&#32;pinpoint&#32;any&#32;location&#32;on&#32;the&#32;planet,&#32;mark&#32;the&#32;location,&#32;and&#32;share&#32;it&#32;with&#32;others,&#32;Waymarking&#32;is&#32;the&#32;toolset&#32;for&#32;categorizing&#32;and&#32;adding&#32;unique&#32;information&#32;for&#32;that&#32;location." /><meta name="keywords" content="waymarking,&#32;waymark,&#32;longitude,&#32;latitude,&#32;utm,&#32;coordinates,&#32;scavenger&#32;hunt,&#32;waymarks,&#32;GPS,&#32;global&#32;positioning&#32;system,&#32;garmin,&#32;magellan,&#32;mapping,&#32;geo,&#32;hiking,&#32;outdoors,&#32;hunt,&#32;cache,&#32;satellite,&#32;navigation,&#32;tracking" /><link rel="icon" href="/images/favicon.ico" type="image/x-icon" /><link rel="shortcut&#32;icon" href="/images/favicon.ico" type="image/x-icon" /><link rel="image_src" href="/preview.png" /><link rel="stylesheet" type="text/css" href="/css/main.css" /><link type="text/css" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" />
+    <script src="/js/reportAbuse.js" type="text/javascript" language="javascript"></script>
+    
+    
+    
+
+    <script
+        src='https://code.jquery.com/jquery-3.5.1.min.js'
+        integrity='sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0='
+        crossorigin='anonymous'
+        type='text/javascript'></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <!--[if IE]>
+		<LINK href="/css/ie_main.css" type=text/css rel=stylesheet>
+		<![endif]-->
+    <!-- startup script here-->
+    <script type="text/javascript">
+        var sdkInstance = "appInsightsSDK"; window[sdkInstance] = "appInsights"; var aiName = window[sdkInstance], aisdk = window[aiName] || function (n) { var o = { config: n, initialize: !0 }, t = document, e = window, i = "script"; setTimeout(function () { var e = t.createElement(i); e.src = n.url || "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", t.getElementsByTagName(i)[0].parentNode.appendChild(e) }); try { o.cookie = t.cookie } catch (e) { } function a(n) { o[n] = function () { var e = arguments; o.queue.push(function () { o[n].apply(o, e) }) } } o.queue = [], o.version = 2; for (var s = ["Event", "PageView", "Exception", "Trace", "DependencyData", "Metric", "PageViewPerformance"]; s.length;)a("track" + s.pop()); var r = "Track", c = r + "Page"; a("start" + c), a("stop" + c); var u = r + "Event"; if (a("start" + u), a("stop" + u), a("addTelemetryInitializer"), a("setAuthenticatedUserContext"), a("clearAuthenticatedUserContext"), a("flush"), o.SeverityLevel = { Verbose: 0, Information: 1, Warning: 2, Error: 3, Critical: 4 }, !(!0 === n.disableExceptionTracking || n.extensionConfig && n.extensionConfig.ApplicationInsightsAnalytics && !0 === n.extensionConfig.ApplicationInsightsAnalytics.disableExceptionTracking)) { a("_" + (s = "onerror")); var p = e[s]; e[s] = function (e, n, t, i, a) { var r = p && p(e, n, t, i, a); return !0 !== r && o["_" + s]({ message: e, url: n, lineNumber: t, columnNumber: i, error: a }), r }, n.autoExceptionInstrumented = !0 } return o }(
+            {
+                instrumentationKey: "ffbcac6d-9944-4aee-bc14-65b600960905",
+            }
+        );
+        (window[aiName] = aisdk).queue && 0 === aisdk.queue.length && aisdk.trackPageView({});
+        aisdk.setAuthenticatedUserContext(null);
+    </script>
+    
+	<link rel="stylesheet" type="text/css" href="/css/wm.css" />
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5SV2GZL');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body id="ctl00_uxBody">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SV2GZL"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <form method="post" action="/waymarks/wm1556B_Marathon_Deli_mural_by_Dr_Rickamortis_College_Park_Maryland" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU0NDExMTAxMA9kFgJmD2QWAgIED2QWAgIBEGRkFgoCAQ9kFghmDxYCHgdWaXNpYmxlZ2QCAQ8PFgIeBFRleHQFFnlvdSBhcmUgbm90IGxvZ2dlZCBpbi5kZAICDw8WAh8AaGRkAgMPDxYEHwEFCFtsb2cgaW5dHgtOYXZpZ2F0ZVVybAVvL2xvZ2luL2RlZmF1bHQuYXNweD9SRVNFVD1ZJnJlZGlyPS93YXltYXJrcy93bTE1NTZCX01hcmF0aG9uX0RlbGlfbXVyYWxfYnlfRHJfUmlja2Ftb3J0aXNfQ29sbGVnZV9QYXJrX01hcnlsYW5kZGQCBA9kFgQCBQ8PFgIfAGhkFgJmD2QWCAIBDxYCHwEF/wFZb3UgaGF2ZSBvbmUgb3IgbW9yZSBzY2F2ZW5nZXIgaHVudHMgdGhhdCBoYXZlIHdpbGRjYXJkIHJlcXVpcmVtZW50cyB0aGF0IGNhbiBiZSBmdWxsZmlsbGVkIGJ5IHRoaXMgd2F5bWFyay4gU2VsZWN0IGEgc2NhdmVuZ2VyIGh1bnQgZnJvbSB0aGUgZHJvcGRvd24gYm94IGJlbG93IGFuZCBwcmVzcyB0aGUgc3VibWl0IGJ1dHRvbiB0byBhc3NpZ24gdGhpcyB3YXltYXJrIHRvIG9uZSBvZiB0aGUgd2lsZGNhcmQgc2xvdHMgZm9yIHRoYXQgaHVudC5kAgMPDxYCHwEFGFNlbGVjdCBhIHNjYXZlbmdlciBodW50OmRkAgUPEGRkFgBkAgcPDxYCHwEFBlN1Ym1pdGRkAgkPZBYMAgMPFgIfAWVkAgUPZBYCAgEPZBYIZg8WAh8BBYoCPGRpdiBjbGFzcz0nd21fcGhvdG8nPjxhIGhyZWY9Jy9nYWxsZXJ5L2ltYWdlLmFzcHg/Zj0xJmd1aWQ9MGRjMjM0M2EtZmJhZS00NDNlLTgwZjItMzhhYzk1ZmFlNjgxJyBpZD0ncm9sbGltZ2xpbmsnPjxpbWcgc3JjPSdodHRwczovL2ltZy5nZW9jYWNoaW5nLmNvbS93YXltYXJraW5nL2Rpc3BsYXkvYWViNzI5ZDQtNjgwZi00NmE1LWE5MmYtZmJkMDEwY2Q0YzI2LmpwZycgbmFtZT0ncm9sbGltZycgZGF0YS1jb29raWVjb25zZW50PSdpZ25vcmUnPjwvYT48L2Rpdj5kAgEPDxYCHwIFQS9nYWxsZXJ5L2ltYWdlLmFzcHg/Zj0xJmd1aWQ9MGRjMjM0M2EtZmJhZS00NDNlLTgwZjItMzhhYzk1ZmFlNjgxZGQCAw8PFgIfAgVJL2dhbGxlcnkvZGVmYXVsdC5hc3B4P2Y9MSZndWlkPTRmOTYyYjIzLWE0MzgtNDA2Ni1hNTljLTEyOWE2ODlmMjllYSZnaWQ9MmRkAgQPFgIfAQWGDTxkaXYgaWQ9J3dtX21pbmlwaG90b3MnPjxhIG9uY2xpY2s9ImRvY3VtZW50LnJvbGxpbWcuc3JjPWltYWdlMC5zcmM7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3JvbGxpbWdsaW5rJykuc2V0QXR0cmlidXRlKCdocmVmJywgJy9nYWxsZXJ5L2ltYWdlLmFzcHg/Zj0xJmd1aWQ9MGRjMjM0M2EtZmJhZS00NDNlLTgwZjItMzhhYzk1ZmFlNjgxJyk7IiBjbGFzcz0nd21fbWluaXBob3RvJz48aW1nIHNyYz0naHR0cHM6Ly9pbWcuZ2VvY2FjaGluZy5jb20vd2F5bWFya2luZy9sYW5kc2NhcGUvYWViNzI5ZDQtNjgwZi00NmE1LWE5MmYtZmJkMDEwY2Q0YzI2LmpwZycgZGF0YS1jb29raWVjb25zZW50PSdpZ25vcmUnPjwvYT48YSBvbmNsaWNrPSJkb2N1bWVudC5yb2xsaW1nLnNyYz1pbWFnZTIuc3JjO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb2xsaW1nbGluaycpLnNldEF0dHJpYnV0ZSgnaHJlZicsICcvZ2FsbGVyeS9pbWFnZS5hc3B4P2Y9MSZndWlkPWNkMGQ4NTU3LTQ2NjctNDcyMS1hYzNlLWRmYTg0ODc1Yjk1ZicpOyIgY2xhc3M9J3dtX21pbmlwaG90byc+PGltZyBzcmM9J2h0dHBzOi8vaW1nLmdlb2NhY2hpbmcuY29tL3dheW1hcmtpbmcvbGFuZHNjYXBlLzhkZDYyMGRiLTNjMDUtNGM3Mi05OWFkLTc3ZmNiNzRhODRjMi5qcGcnIGRhdGEtY29va2llY29uc2VudD0naWdub3JlJz48L2E+PGEgb25jbGljaz0iZG9jdW1lbnQucm9sbGltZy5zcmM9aW1hZ2UzLnNyYztkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9sbGltZ2xpbmsnKS5zZXRBdHRyaWJ1dGUoJ2hyZWYnLCAnL2dhbGxlcnkvaW1hZ2UuYXNweD9mPTEmZ3VpZD1lMDhkNWMzMi00MGUwLTQwNTAtYWIyYS01NzJmMjZhNTA3ODAnKTsiIGNsYXNzPSd3bV9taW5pcGhvdG8nPjxpbWcgc3JjPSdodHRwczovL2ltZy5nZW9jYWNoaW5nLmNvbS93YXltYXJraW5nL2xhbmRzY2FwZS9jNjMxMDY0ZC03MTYxLTQxMTctOTM5ZC1jYzM0OTdhZGZlODIuanBnJyBkYXRhLWNvb2tpZWNvbnNlbnQ9J2lnbm9yZSc+PC9hPjxhIG9uY2xpY2s9ImRvY3VtZW50LnJvbGxpbWcuc3JjPWltYWdlNC5zcmM7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3JvbGxpbWdsaW5rJykuc2V0QXR0cmlidXRlKCdocmVmJywgJy9nYWxsZXJ5L2ltYWdlLmFzcHg/Zj0xJmd1aWQ9ZTAzMzA5YjEtMjAxMi00M2E1LWIxYzctN2M0MjA3MWM1ZGIyJyk7IiBjbGFzcz0nd21fbWluaXBob3RvJz48aW1nIHNyYz0naHR0cHM6Ly9pbWcuZ2VvY2FjaGluZy5jb20vd2F5bWFya2luZy9sYW5kc2NhcGUvYWZmODhjOWEtNDgyMS00Y2ZmLTg1ODAtZTNhMTA1MzZjMWRlLmpwZycgZGF0YS1jb29raWVjb25zZW50PSdpZ25vcmUnPjwvYT48YSBvbmNsaWNrPSJkb2N1bWVudC5yb2xsaW1nLnNyYz1pbWFnZTUuc3JjO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb2xsaW1nbGluaycpLnNldEF0dHJpYnV0ZSgnaHJlZicsICcvZ2FsbGVyeS9pbWFnZS5hc3B4P2Y9MSZndWlkPTliOGU4ODdkLTY5ZWUtNDQxOS1hZGM0LWY0YjI0NmQzMzA4MycpOyIgY2xhc3M9J3dtX21pbmlwaG90byc+PGltZyBzcmM9J2h0dHBzOi8vaW1nLmdlb2NhY2hpbmcuY29tL3dheW1hcmtpbmcvbGFuZHNjYXBlLzk0Yjk2ZGRmLTIxNjQtNDk0Yy1iMzNmLTMzNDI3ODc0ODg0OS5qcGcnIGRhdGEtY29va2llY29uc2VudD0naWdub3JlJz48L2E+PC9kaXY+ZAIHD2QWHGYPFgIfAQV/PGRpdiBpZD0id21fbmFtZSI+PGltZyBzcmM9Jy9pbWFnZXMvY2F0X2ljb25zL211cmFscy5naWYnPk1hcmF0aG9uIERlbGkgbXVyYWwgYnkgRHIuIFJpY2thbW9ydGlzIC0gQ29sbGVnZSBQYXJrLCBNYXJ5bGFuZDwvZGl2PmQCAg8WAh8BBXg8ZGl2IGlkPSJ3bV9jYXRlZ29yeSI+aW4gPGEgaHJlZj0nL2NhdC9kZXRhaWxzLmFzcHg/Zj0xJmd1aWQ9NDE1ZmE0MGYtMDc4My00Y2FiLWFjYWQtZDIzODFiZDg2ZmZkJnN0PTInPk11cmFsczwvYT48L2Rpdj5kAgQPDxYCHwBoZGQCBg8WAh8BBc8CPGRpdiBpZD0id21fcG9zdGVkYnkiPjxzdHJvbmc+UG9zdGVkIGJ5Ojwvc3Ryb25nPiA8YSBocmVmPScvdXNlcnMvcHJvZmlsZS5hc3B4P2Y9MSZndWlkPTYwYmM4Y2NjLWIxYzUtNDhkOC1hNjMwLTcyZmZhZGMyYzMzNCc+PGltZyBzcmM9Jy9pbWFnZXMvaWNvbnMvcmVnX3VzZXIuZ2lmJyBhbHQ9J0dyb3VuZHNwZWFrIFJlZ3VsYXIgTWVtYmVyJyBib3JkZXI9JzAnIGFsaWduPSdhYnNtaWRkbGUnPjwvYT4mbmJzcDs8YSBocmVmPScvdXNlcnMvcHJvZmlsZS5hc3B4P2Y9MSZndWlkPTYwYmM4Y2NjLWIxYzUtNDhkOC1hNjMwLTcyZmZhZGMyYzMzNCc+NDAxUGhvdG9zPC9hPjwvYT48L2Rpdj5kAggPFgIfAGhkAgoPDxYCHwBoFgIeB29uQ2xpY2sFXHJldHVybiBjb25maXJtKCdBcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gYWRkIHRoaXMgd2F5bWFyayB0byB5b3VyIGxpc3Qgb2Ygc2F2ZWQgc2VhcmNoZXM/Jyk7ZAIMDxYCHwEFTDxkaXYgaWQ9IndtX2Nvb3JkaW5hdGVzIj48c3Ryb25nPk4gMzjCsCA1OC44ODEgVyAwNzbCsCA1Ni4yODM8L3N0cm9uZz48L2Rpdj5kAg4PFgIfAQUtPGRpdiBpZD0id21fdXRtIj4xOFMgRSAzMzIxMjkgTiA0MzE2NDkzPC9kaXY+ZAIQDxYCHwEFhgI8ZGl2IGlkPSd3bV9xdWlja2Rlc2MnPkEgbWFzaC11cCBvZiBmcmVzaGx5IG1hZGUgZm9vZCBhbmQgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCBpY29ucywgdGhpcyAxNS1mb290LWxvbmcgbXVyYWwgcnVucyBhbG9uZyB0aGUgd2FsbCBmcm9tIHRoZSBlbnRyYW5jZSB0byB0aGUgY291bnRlciBhdCBNYXJhdGhvbiBEZWxpIGluIENvbGxlZ2UgUGFyaywgTWFyeWxhbmQuIEl0IHdhcyBwYWludGVkIGJ5IG11cmFsIGFydGlzdCBEci4gUmlja2Ftb3J0aXMuPC9kaXY+ZAIUDxYCHwEFPjxkaXYgaWQ9J3dtX2NvZGUnPjxzdHJvbmc+V2F5bWFyayBDb2RlOjwvc3Ryb25nPiBXTTE1NTZCPC9kaXY+ZAIWDxYCHwEFTjxkaXYgaWQ9IndtX2xvY2F0aW9uIj48c3Ryb25nPkxvY2F0aW9uOjwvc3Ryb25nPiBNYXJ5bGFuZCwgVW5pdGVkIFN0YXRlczwvZGl2PmQCGA8WAh8BBUY8ZGl2IGlkPSd3bV9kYXRlbGlzdGVkJz48c3Ryb25nPkRhdGUgUG9zdGVkOjwvc3Ryb25nPiAxMC8xOC8yMDIxPC9kaXY+ZAIaDxYCHwEF0gI8ZGl2IGlkPSJ3bV9hcHByb3ZlZGJ5Ij48c3Ryb25nPlB1Ymxpc2hlZCBCeTo8L3N0cm9uZz48YSBocmVmPScvdXNlcnMvcHJvZmlsZS5hc3B4P2Y9MSZndWlkPWIxYzVjMDliLTRmMGEtNGE0MS05MzA1LWRkNThlYTYyNTMwNyc+PGltZyBzcmM9Jy9pbWFnZXMvaWNvbnMvcHJlbV91c2VyLmdpZicgYWx0PSdHcm91bmRzcGVhayBQcmVtaXVtIE1lbWJlcicgYm9yZGVyPScwJyBhbGlnbj0nYWJzbWlkZGxlJz48L2E+Jm5ic3A7PGEgaHJlZj0nL3VzZXJzL3Byb2ZpbGUuYXNweD9mPTEmZ3VpZD1iMWM1YzA5Yi00ZjBhLTRhNDEtOTMwNS1kZDU4ZWE2MjUzMDcnPk91dHNwb2tlbjE8L2E+IDwvZGl2PmQCHA8WAh8BBTE8ZGl2IGlkPSJ3bV92aWV3cyI+PHN0cm9uZz5WaWV3czo8L3N0cm9uZz4mbmJzcDszZAIJDxYCHwFlZAIND2QWCmYPFgIfAWVkAgIPFgIfAQXVBzxkaXYgaWQ9d21fbG9uZ2Rlc2M+PHA+QSBtYXNoLXVwIG9mIGZyZXNoIG1hZGUgZm9vZCBhbmQgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCBpY29ucywgdGhpcyAxNS1mb290LWxvbmcgbXVyYWwgcnVucyBhbG9uZyB0aGUgdG9wIGhhbGYgb2YgdGhlIHdhbGwgZnJvbSB0aGUgZW50cmFuY2UgdG8gdGhlIGNvdW50ZXIgYXQgPGEgaHJlZj0iaHR0cHM6Ly93d3cubWFyYXRob25kZWxpbWQuY29tLyIgdGFyZ2V0PSJibGFuayI+TWFyYXRob24gRGVsaTwvYT4gaW4gQ29sbGVnZSBQYXJrLCBNYXJ5bGFuZC4gDQoNCjxwPlRoZSB3YWxsIGFydCBmZWF0dXJlcyBhIGZpZXJjZSB0ZXJyYXBpbiBuYW1lZCBUZXN0dWRvLCB0aGUgb2ZmaWNpYWwgbWFzY290IG9mIFVNRC4gVGhlIG11c2N1bGFyIHJlcHRpbGUgaG9sZHMgYSBneXJvIGluIG9uZSBoYW5kIGFuZCBnaXZlcyBhIHRodW1icy11cCB3aXRoIHRoZSBvdGhlci4gRnJlbmNoIGZyaWVzIGFuZCBmbG9hdGluZyBmcmVzaCBpbmdyZWRpZW50cyBmaWxsIHRoZSByaWdodCBzaWRlIG9mIHRoZSBtdXJhbC4gQSBsaWdodC11cCBhcnJvdyBhbmQgcmVkIGJyaWNrIGNhbXB1cyBidWlsZGluZyBhcmUgdGhlIGJhY2tncm91bmQgdG8gdGhlIGxlZnQuIEZpbmFsbHksIGEgYmlnLCBncmFmZml0aSAiTSIgc3RhbmRzIHByb3VkbHkgYmV0d2VlbiB0aGUgdG9nYS13ZWFyaW5nIHR1cnRsZSBhbmQgdGhlIGZseWluZyB2ZWdnaWVzLg0KDQo8cD5HcmFmZml0aSBhbmQgbXVyYWwgYXJ0aXN0IDxhIGhyZWY9Imh0dHBzOi8vd3d3LmtvdGlzc3RyZWV0YXJ0LmNvbS9kci1yaWNrYW1vcnRp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Z2Z0PTUmc3Q9MmRkAjcPDxYCHwBnZBYIAgMPDxYCHwIFGS9odW50L2xpc3QuYXNweD9wdD01Jmh0PTFkZAIFDw8WAh8CBRkvaHVudC9saXN0LmFzcHg/cHQ9NSZodD00ZGQCBw8PFgIfAgUZL2h1bnQvbGlzdC5hc3B4P3B0PTUmaHQ9MmRkAgkPDxYCHwIFGS9odW50L2xpc3QuYXNweD9wdD01Jmh0PTNkZAI7Dw8WBB8BBRFNeSBTYXZlZCBTZWFyY2hlcx8CBRQvbXkvb3JpZ2lucy5hc3B4P2Y9MWRkAj0PDxYEHwEFEkZ1bGwgQ2F0ZWdvcnkgTGlzdB8CBR8vY2F0L2NhdGVnb3J5ZGlyZWN0b3J5LmFzcHg/Zj0xZGQCPw8PFgIfAGhkZAJBDw8WAh8AaGRkAggPZBYMZg8PFgIfAgUBL2RkAgEPDxYCHwIFI2h0dHBzOi8vd3d3Lmdlb2NhY2hpbmcuY29tL2NhcmVlcnMvZGQCAw8PFgIfAgUwaHR0cHM6Ly93d3cuZ2VvY2FjaGluZy5jb20vYWJvdXQvdGVybXNvZnVzZS5hc3B4ZGQCBQ8PFgIfAgU2aHR0cHM6Ly93d3cuZ2VvY2FjaGluZy5jb20vYWNjb3VudC9kb2N1bWVudHMvZG9ub3RzZWxsZGQCBg8PFgIfAgUIL2NvbnRhY3RkZAIHDw8WAh8CBRAvaGVscC9zdGFydC5hc3B4ZGRksTbxwhe77VkOn0NoH4l2TErZtrk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Dh2VENdI9XyWNN0f7DnYfR8WWRCRIzdVqal2y0yjiQ5nC_eHhLchYgnQDHIk0d3RCcSUMVZ36ciRD0qmhXKmeu3S_RE1&amp;t=638086160452977627" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=z1rPDFMG9GSlF6MHtHLVAsSEw5BwO4RvMtal_YWrKs4D5emREa6CkQke5heEeuLRdl1vwluvo9vK0DN6jFb_Xp_PByjg5RdN7gapxrFi4Y3Vb572OGnCmsOUiZG9VTa3J69v15FZj_ZZX98SFa0aZ-yMMIQ1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yt8Kw3xPlnmrH1n2I-s7yDwGmJynCjjMXJ4wN6G6vPhPtGazMmqsmAGkcaoFCSoHBNYo_chlqByjlTDoreqMYW8jfHo0skSUOb4zFPkzQMnbXBfV_Y_eu5_Ej3-QIJF1JrWQJsB63M1HSE0LhE6-WKwP8EPj0qS7Kh5rIzcE-xtJsG4c0&amp;t=49337fe8" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C5B5F3D6" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$uxScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+        <div id="wrap">
+            
+<div id="header">
+    <!--[if lte IE 6]>
+    <div style="padding:5px;color:#B10022;background-color:#ffffff;zoom:1;text-align:center;margin-bottom:5px">
+        <p><img src="../images/stockholm/16x16/alert.gif" style="vertical-align:middle" />
+        Groundspeak is phasing out support for older browsers. Visit the <a href="http://support.groundspeak.com/index.php?pg=kb.page&id=215" title="View browser support information">Help Center</a> for more information.
+        </p>
+    </div>
+    <![endif]-->
+    <div id="header_logo">
+        <a href="">
+            <img src="/images/logo.gif" /></a></div>
+    <ul id="main_nav">
+        <li id="lnk_shop" title="Shop Geocaching"><a href="http://shop.geocaching.com">shop</a></li>
+        <li id="lnk_forums" title="Waymarking Forums"><a href="https://forums.geocaching.com/GC/index.php?/forum/52-waymarking/">forums</a></li>
+        <li id="lnk_waymarks" title="Waymarks"><a href="/waymarks.aspx">waymarks</a></li>
+        <li id="ctl00_HeaderControl1_lnk_scavenger_hunts" title="Scavenger&#32;Hunts"><a href="/games.aspx">
+            scavenger hunts</a></li>
+        <li id="lnk_groups" title="Groups"><a href="/groups.aspx">groups</a></li>
+        <li id="lnk_categories" title="Categories"><a href="/categories.aspx">categories</a></li>
+        <li id="lnk_mypage" title="Profile"><a href="/users/profile.aspx">profile</a></li>
+        <li id="lnk_home" title="Waymarking Home"><a href="/default.aspx">home</a></li>
+    </ul>
+    <div id="logowrap">
+        <div id="bc_wrap">
+            <p id="breadcrumb">
+                <A href='/default.aspx?f=1' >Home</A>&nbsp;&gt; <A href='/categories.aspx?f=1' >Categories</A>&nbsp;&gt; <A href='/cat/details.aspx?f=1&guid=415fa40f-0783-4cab-acad-d2381bd86ffd&st=2'>Category</a>&nbsp;&gt; Waymark</p>
+            <p id="login">
+                <span id="ctl00_HeaderControl1_lblLogin">you are not logged in.</span>&nbsp;<a id="ctl00_HeaderControl1_lnkSignInUrl" href="/login/default.aspx?RESET=Y&amp;redir=/waymarks/wm1556B_Marathon_Deli_mural_by_Dr_Rickamortis_College_Park_Maryland">[log in]</a></p>
+            <div class="clear">
+            </div>
+        </div>
+        <!-- end bc_wrap -->
+        <div id="titlediv">
+            <h1 id="title">
+                <span id="titletext">
+                    Marathon Deli mural by Dr. Rickamortis - College Park, Maryland - Murals on Waymarking.com</span></h1>
+        </div>
+        <!-- end titlediv -->
+    </div>
+    <!-- end logowrap -->
+</div>
+<!--end header-->
+
+            <div id="content">
+                <div class="gutter">
+                    <!--enter center content here-->
+                    
+                    
+                    <input name="__RequestVerificationToken" type="hidden" value="pvxOVlxfmFvKqEvXQfdO30Q_emjAhHo2_pgxDsy-UQtuOQ0G4MiCEuRdob-UdRZ2JPl3fH_5zbNoEHd0Kx7Rr_RqEwQ1" />
+                    
+    <div id="ctl00_ContentBody_uxUpsellPanel" class="upsellPanel">
+	
+        
+
+<div id="ctl00_ContentBody_HomePagePushControl1_uxShowPushWaymark">
+		
+    <div id="pushwrapper">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr>
+                <td>
+                    <div id="uxPushcreate" class="pushcreate pushcreate100">
+                        <h2>Welcome to Waymarking.com!</h2>
+                        <span>We hope you've been able to find what you are looking for. We would also like
+                            to encourage you to take some time to browse some of the other aspects of our site.
+                            We recommend viewing our <a href="/wm/search.aspx?f=1&wft=4">featured waymarks</a>,
+                            or perhaps the <a href="/wm/search.aspx?f=1&wst=6">newest waymarks</a>. You can
+                            also <a href="/Membership">create a free membership</a> to track your progress online
+                            and share your locations with others.</span> <span><a href="/categories.aspx?f=1">Click
+                                here to view the complete waymark directory</a></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+	</div>
+
+
+    
+</div>
+    
+    
+    
+    
+<div class="waymarkcontrol" id="waymarkcontrol">
+    <table cellpadding="0" cellspacing="0" border="0" width="98%">
+        <tr>
+            <td>
+                <div id="ctl00_ContentBody_WaymarkControl1_pnlMessage">
+	
+                    <span id="ctl00_ContentBody_WaymarkControl1_lblMessage"></span>
+                
+</div>
+                
+                <div id="waymark_details">
+                    <div id="ctl00_ContentBody_WaymarkControl1_pnlPhoto">
+	
+                        <div id="photoleft">
+                            <script language=javascript>if (document.images) {image0 = new Image;image0.src='https://img.geocaching.com/waymarking/display/aeb729d4-680f-46a5-a92f-fbd010cd4c26.jpg';image2 = new Image;image2.src='https://img.geocaching.com/waymarking/display/8dd620db-3c05-4c72-99ad-77fcb74a84c2.jpg';image3 = new Image;image3.src='https://img.geocaching.com/waymarking/display/c631064d-7161-4117-939d-cc3497adfe82.jpg';image4 = new Image;image4.src='https://img.geocaching.com/waymarking/display/aff88c9a-4821-4cff-8580-e3a10536c1de.jpg';image5 = new Image;image5.src='https://img.geocaching.com/waymarking/display/94b96ddf-2164-494c-b33f-334278748849.jpg';}</script>
+<div class='wm_photo'><a href='/gallery/image.aspx?f=1&guid=0dc2343a-fbae-443e-80f2-38ac95fae681' id='rollimglink'><img src='https://img.geocaching.com/waymarking/display/aeb729d4-680f-46a5-a92f-fbd010cd4c26.jpg' name='rollimg' data-cookieconsent='ignore'></a></div>
+<p id="wm_gallerylink">
+		<a id="ctl00_ContentBody_WaymarkControl1_PhotoControl1_lnkCamera" href="/gallery/image.aspx?f=1&amp;guid=0dc2343a-fbae-443e-80f2-38ac95fae681"><img src="../images/camera.gif" alt="HyperLink" /></a>
+		<span id="ctl00_ContentBody_WaymarkControl1_PhotoControl1_lblSpacer"></span>
+			<a id="ctl00_ContentBody_WaymarkControl1_PhotoControl1_lnkGallery" href="/gallery/default.aspx?f=1&amp;guid=4f962b23-a438-4066-a59c-129a689f29ea&amp;gid=2">View waymark gallery</a></p>
+<div id='wm_miniphotos'><a onclick="document.rollimg.src=image0.src;document.getElementById('rollimglink').setAttribute('href', '/gallery/image.aspx?f=1&guid=0dc2343a-fbae-443e-80f2-38ac95fae681');" class='wm_miniphoto'><img src='https://img.geocaching.com/waymarking/landscape/aeb729d4-680f-46a5-a92f-fbd010cd4c26.jpg' data-cookieconsent='ignore'></a><a onclick="document.rollimg.src=image2.src;document.getElementById('rollimglink').setAttribute('href', '/gallery/image.aspx?f=1&guid=cd0d8557-4667-4721-ac3e-dfa84875b95f');" class='wm_miniphoto'><img src='https://img.geocaching.com/waymarking/landscape/8dd620db-3c05-4c72-99ad-77fcb74a84c2.jpg' data-cookieconsent='ignore'></a><a onclick="document.rollimg.src=image3.src;document.getElementById('rollimglink').setAttribute('href', '/gallery/image.aspx?f=1&guid=e08d5c32-40e0-4050-ab2a-572f26a50780');" class='wm_miniphoto'><img src='https://img.geocaching.com/waymarking/landscape/c631064d-7161-4117-939d-cc3497adfe82.jpg' data-cookieconsent='ignore'></a><a onclick="document.rollimg.src=image4.src;document.getElementById('rollimglink').setAttribute('href', '/gallery/image.aspx?f=1&guid=e03309b1-2012-43a5-b1c7-7c42071c5db2');" class='wm_miniphoto'><img src='https://img.geocaching.com/waymarking/landscape/aff88c9a-4821-4cff-8580-e3a10536c1de.jpg' data-cookieconsent='ignore'></a><a onclick="document.rollimg.src=image5.src;document.getElementById('rollimglink').setAttribute('href', '/gallery/image.aspx?f=1&guid=9b8e887d-69ee-4419-adc4-f4b246d33083');" class='wm_miniphoto'><img src='https://img.geocaching.com/waymarking/landscape/94b96ddf-2164-494c-b33f-334278748849.jpg' data-cookieconsent='ignore'></a></div>
+
+                        </div>
+                    
+</div>
+                    <div id="detailsright">
+                        <div id="wm_name"><img src='/images/cat_icons/murals.gif'>Marathon Deli mural by Dr. Rickamortis - College Park, Maryland</div>
+<div id="wm_category">in <a href='/cat/details.aspx?f=1&guid=415fa40f-0783-4cab-acad-d2381bd86ffd&st=2'>Murals</a></div>
+
+<div id="wm_postedby"><strong>Posted by:</strong> <a href='/users/profile.aspx?f=1&guid=60bc8ccc-b1c5-48d8-a630-72ffadc2c334'><img src='/images/icons/reg_user.gif' alt='Groundspeak Regular Member' border='0' align='absmiddle'></a>&nbsp;<a href='/users/profile.aspx?f=1&guid=60bc8ccc-b1c5-48d8-a630-72ffadc2c334'>401Photos</a></a></div>
+
+<div id="wm_savelocation">
+    </div>
+<div id="wm_coordinates"><strong>N 38° 58.881 W 076° 56.283</strong></div>
+<div id="wm_utm">18S E 332129 N 4316493</div>
+<div id='wm_quickdesc'>A mash-up of freshly made food and University of Maryland icons, this 15-foot-long mural runs along the wall from the entrance to the counter at Marathon Deli in College Park, Maryland. It was painted by mural artist Dr. Rickamortis.</div>
+
+<div id="wm_details">
+    <div id='wm_code'><strong>Waymark Code:</strong> WM1556B</div>
+    <div id="wm_location"><strong>Location:</strong> Maryland, United States</div>
+    <div id='wm_datelisted'><strong>Date Posted:</strong> 10/18/2021</div>
+    <div id="wm_approvedby"><strong>Published By:</strong><a href='/users/profile.aspx?f=1&guid=b1c5c09b-4f0a-4a41-9305-dd58ea625307'><img src='/images/icons/prem_user.gif' alt='Groundspeak Premium Member' border='0' align='absmiddle'></a>&nbsp;<a href='/users/profile.aspx?f=1&guid=b1c5c09b-4f0a-4a41-9305-dd58ea625307'>Outspoken1</a> </div>
+    <div id="wm_views"><strong>Views:</strong>&nbsp;3
+</div>
+<script language="javascript">
+    function featuredSwitch(x) {
+        jQuery.ajax({
+            type: "POST",
+            url: "/controls/AjaxService.asmx/FeaturedSwitch",
+            data: "{}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            async: true,
+            cache: false,
+            success: function (msg) {
+                featuredSwitch_callback(msg);
+            }
+        })
+    }
+
+    // This method will be called after the method has been executed
+    // and the result has been sent to the client.
+
+    function featuredSwitch_callback(msg) {
+        if (msg.d == false) {
+            document.getElementById('lnkFeatured').innerHTML = '<img src=\'../images/icons/featured_gray.gif\' border=0>'
+        }
+        else {
+            document.getElementById('lnkFeatured').innerHTML = '<img src=\'../images/icons/featured.gif\' border=0>'
+        }
+    }
+</script>
+
+                    </div>
+                </div>
+                
+                
+<div class="downloadwrap">
+    <div class="downloadbuttons">
+        <span class="downloadspan">Download this waymark:</span><br />
+        <a id="ctl00_ContentBody_WaymarkControl1_DownloadControl1_btnDownloadGPX" href="javascript:__doPostBack(&#39;ctl00$ContentBody$WaymarkControl1$DownloadControl1$btnDownloadGPX&#39;,&#39;&#39;)"><img src="../images/16X16/download.gif" align=middle border=0>.GPX File</a><br>
+        <a id="ctl00_ContentBody_WaymarkControl1_DownloadControl1_btnDownloadLoc" href="javascript:__doPostBack(&#39;ctl00$ContentBody$WaymarkControl1$DownloadControl1$btnDownloadLoc&#39;,&#39;&#39;)"><img src="../images/16X16/download.gif" align=middle border=0>.LOC File</a><br>
+        <a id="ctl00_ContentBody_WaymarkControl1_DownloadControl1_btnDownloadKML" href="javascript:__doPostBack(&#39;ctl00$ContentBody$WaymarkControl1$DownloadControl1$btnDownloadKML&#39;,&#39;&#39;)"><img src="../images/16X16/download.gif" align=middle border=0>.KML File (Google Earth)</a><br>
+    </div>
+</div>
+
+                <br />
+                
+<div id=wm_longdesc><p>A mash-up of fresh made food and University of Maryland icons, this 15-foot-long mural runs along the top half of the wall from the entrance to the counter at <a href="https://www.marathondelimd.com/" target="blank">Marathon Deli</a> in College Park, Maryland. 
+
+<p>The wall art features a fierce terrapin named Testudo, the official mascot of UMD. The muscular reptile holds a gyro in one hand and gives a thumbs-up with the other. French fries and floating fresh ingredients fill the right side of the mural. A light-up arrow and red brick campus building are the background to the left. Finally, a big, graffiti "M" stands proudly between the toga-wearing turtle and the flying veggies.
+
+<p>Graffiti and mural artist <a href="https://www.kotisstreetart.com/dr-rickamortis" target="blank"> <b>@Dr.Rickamortis</b></a> used a color palette of mainly yellow and red. His signature is stenciled near the lower left corner in yellow paint.</p></p></p></div>
+<div id="wm_variables">
+	
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="0">
+	<TR>
+		<TD>
+			<span style="font-weight:bold;">City: </span><span>College Park, Maryland</span><span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span><span style="font-weight:bold;">Location Name: </span><span>Marathon Deli</span><span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span><span style="font-weight:bold;">Artist: </span><span>Dr. Rickamortis</span><span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span><span style="font-weight:bold;">Date: </span><span>2021</span><span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span><span style="font-weight:bold;">Media: </span><span>Spray paint on drywall</span><span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span><span style="font-weight:bold;">Relevant Web Site: </span>Not listed<span><br /><img border=0 src='/images/spacer.gif' height=6><br /></span></TD>
+	</TR>
+</TABLE>
+
+</div>
+<div id=wm_loginstructions><strong>Visit Instructions:</strong><br />Please give the date and description of your visit.  One original photo of the mural must also be submitted.  GPSr photo NOT required.</div>
+<table id="ctl00_ContentBody_WaymarkControl1_ExpandedWaymarkDetailsControl1_tblSearches" class="waymark_searches">
+	<tr>
+		<td colspan="2"><strong>Search for...</strong><br /></td>
+	</tr><tr>
+		<td valign="top"><a href='https://www.geocaching.com/seek/gmnearest.aspx?lat=38.981354&lng=-76.938053' target='_blank'>Geocaching.com Google Map</a><br /><a href='https://maps.google.com/maps?q=38.981354+-76.938053' target='_blank'>Google Maps</a><br /><a href='https://www.mapquest.com/maps/map.adp?latitude=38.981354&longitude=-76.938053&zoom=10' target='_blank'>MapQuest</a><br /><a href='https://www.bing.com/maps/default.aspx?v=2&cp=38.981354~-76.938053&lvl=15' target='_blank'>Bing Maps</a><br /></td><td valign="top"><a href='/wm/search.aspx?f=1&lat=38.981354&lon=-76.938053&t=6'>Nearest Waymarks</a><br /><a href='/cat/details.aspx?f=1&guid=415fa40f-0783-4cab-acad-d2381bd86ffd&lat=38.981354&lon=-76.938053&t=6'>Nearest Murals</a><br /><a href='https://www.geocaching.com/play/results/?st=38.981354+-76.938053&amp;ot=query&amp;asc=true&amp;sort=distance' target='_blank'>Nearest Geocaches</a><br /></td>
+	</tr><tr>
+		<td colspan="2"><a href="/hunt/add.aspx?loc=38.981354,-76.938053">Create a scavenger hunt using this waymark as the center point</a></td>
+	</tr>
+</table>
+<div id="wm_logs"><strong>Recent Visits/Logs:</strong><br>
+	
+
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+	<TBODY>
+		<tr>
+			<td>There are no logs for this waymark yet.</td>
+		</tr>
+		<tr>
+			<td></TD></TR>
+<tr>
+	<td>
+        
+    </td>
+</tr>
+</TBODY></TABLE>
+<BR>
+	</div>
+
+                
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+                </div>
+                <!--end gutter-->
+            </div>
+            <!--end content-->
+            <div id="sidebar">
+                <div class="gutter">
+                    <!--enter side content here-->
+                    
+<div class="whitebox">
+    <div id="gs_waymarkly">
+        <div id="gs_right">
+            <span id="gs_header"><b>iOS user? Try the Waymarkly app!</b></span><br />
+            <span id="gs_description">Includes the ability to log visits, view logs, save and filter offline Waymarks and use beautiful offline maps! Waymarkly is the premiere Waymarking app for iOS.</span>
+            <span id="gs_link">
+                <br />
+                <a target="_blank" href="https://www.waymarkly.com/">Get the Waymarkly app now</a></span>
+        </div>
+    </div>
+</div>
+
+                    <!--end box-->
+                    
+    <div id="ctl00_ContentRightColumn_CategoryFilterControl1_uxGoogleMap">
+	
+    <div class="box">
+        <h3 id="searchbox">Map</h3>
+        <div id="categoryfilter">
+            <span id="ctl00_ContentRightColumn_CategoryFilterControl1_lblMessage"></span>
+            <h5>
+                
+            </h5>
+            
+<link rel="stylesheet" type="text/css" href="/css/leaflet.css" />
+<style>
+    #uxSearchFromHere 
+    {
+        margin: 7px 0 4px 10px;
+    }
+</style>
+
+
+    <div id="map_canvas" class="googlemap">
+    </div>
+
+    <div id="mapinfo">
+    </div>
+
+    <div>
+        <button id="uxSearchFromHere">Search from Here</button>
+    </div>
+
+    <div id="map_info">
+    </div>
+
+
+
+<div id="mapswitch">
+    
+</div>
+
+<script type="text/javascript" data-cookieconsent="ignore">
+
+    var map, marker, bounds;
+
+    function init_map() {
+        map = L.map('map_canvas', { attributionControl: false }).setView([47.648967, -122.348117], 13);
+
+        map.addControl(new L.Control.Attribution({
+            prefix: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+        }));
+
+        L.tileLayer('https://maptiles{s}.geocaching.com/tile/{z}/{x}/{y}.png?token={token}',
+            {
+                token: 'eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3VzZXJkYXRhIjoiNDBjYzI5ZDAtNDdhZC00ZWZjLTkxZjYtYTdlNzk2YmFiOWQ4IiwibGdkIjoiMDA3YjhhZGMtNmI0ZC00ZGVlLWEyOWUtZTY2YTgwZTk2N2Q2Iiwic2NvcGUiOiJtYXB0aWxlIiwibmJmIjoxNzI3MzIwNTMwLCJleHAiOjE3MjczMjQxMzAsImlzcyI6Imh0dHBzOi8vb2F1dGguZ2VvY2FjaGluZy5jb20vdG9rZW4iLCJhdWQiOiI0MGNjMjlkMC00N2FkLTRlZmMtOTFmNi1hN2U3OTZiYWI5ZDgifQ.RNHwa2jivSR_mAlmbyrsbqoIlX_6by7jMKD2Sft4-pE',
+                subdomains: ['01', '02', '03', '04', '05', '06', '07', '08']
+            }).addTo(map);
+
+        bounds = new L.LatLngBounds([]);
+
+        if (typeof mapItems === "function") {
+            mapItems();
+        } else {
+            window.setTimeout(function () { mapItems(); }, 800);
+        }
+
+        window.setTimeout(function () {
+            map.fitBounds(bounds, { maxZoom: 15 });
+        }, 1000);
+    }
+
+    function wrapMarkers(markers) {
+        for (var x = 0, len = markers.length; x < len; x++) {
+            createMarker(markers[x]);
+        }
+    }
+
+    function htmlEntities(str) {
+        return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function createMarker(item) {
+
+        var marker = L.marker([item.lat, item.lng], {
+            title: item.title,
+            icon: L.icon({
+                iconUrl: 'https://www.waymarking.com/dyn_img/bubble.aspx?path=' + item.icon,
+                iconSize: [37, 33], iconAnchor: [37, 33]
+            })
+        }).addTo(map);
+
+        marker.on("click", function () { showInfoPanel(item.icon, htmlEntities(item.title), item.code, htmlEntities(item.cat), htmlEntities(item.desc)); });
+
+        bounds.extend(L.latLng([item.lat, item.lng]));
+    }
+
+    function showInfoPanel(icon, title, code, category, desc) {
+        jQuery("#mapinfo").html("<table class='googlemap_wmtable'><tr><td class='googlemap_wmtd'><a href='/cat/details.aspx?f=1&guid=" + category + "'><img src='/images/cat_icons/" + icon + ".gif' width='24' border='0' valign='absmiddle'></a></td><td class='googlemap_wmtd'><a href='/waymarks/" + code + "'>" + title + "</a></td></tr><tr><td class='googlemap_wmtd2'></td><td class='googlemap_wmtd2'>" + desc + "</td></tr></table>");
+        jQuery("#mapinfo").show();
+    }
+
+    document.addEventListener("DOMContentLoaded", function (event) {
+        init_map();
+
+        jQuery("#uxSearchFromHere").click(function (e) {
+            e.preventDefault();
+            if (map && searchUrl) {
+                var latLng = map.getCenter();
+
+                var newSearchUrl = new URI(searchUrl);
+
+                newSearchUrl
+                    .removeSearch('sg')
+                    .setSearch('lat', latLng.lat)
+                    .setSearch('lon', latLng.lng);
+
+                window.document.location.href = newSearchUrl.toString();
+            }
+            return false;
+        });
+
+    });
+
+</script>
+
+            
+        </div>
+    </div>
+
+</div>
+
+
+    
+<!--[if IE]><LINK href="../css/ie_main.css" type=text/css rel=stylesheet><![endif]-->
+<div class="box">
+    <h3 id="optionlinklist">
+        <span id="ctl00_ContentRightColumn_DynamicLinksControl1_lblTitle">Waymark Options</span></h3>
+    <div id="dynamiclinks">
+        <ul class='category_linkoptions'><li class='category_linkoption'><img src='/images/16X16/comment.gif'><a class="category_linkoption" href="/logs/default.aspx?f=1&amp;guid=4f962b23-a438-4066-a59c-129a689f29ea&amp;st=2">View Visits/Comments (0)</a></li><li class='category_linkoption'><img src='/images/16X16/file.gif'><a class="category_linkoption" href="/waymarks/wm1556B_Marathon_Deli_mural_by_Dr_Rickamortis_College_Park_Maryland">View Waymark</a></li><li class='category_linkoption'><img src='/images/16X16/images.gif'><a class="category_linkoption" href="/gallery/default.aspx?f=1&amp;guid=4f962b23-a438-4066-a59c-129a689f29ea&amp;gid=2&amp;st=2">View Gallery (7)</a></li></ul>
+    </div>
+    <table cellpadding="0" cellspacing="0" width="100%" border="0">
+        <tr>
+            <td>
+                
+            </td>
+        </tr>
+    </table>
+</div>
+
+    
+<!--[if IE]><LINK href="../css/ie_main.css" type=text/css rel=stylesheet><![endif]-->
+<div class="box">
+    <h3 id="advert_header">
+        <span id="ctl00_ContentRightColumn_SideAdvertControl1_lblTitle">Advertisement</span></h3>
+    <div id="advertising">
+        <div>
+            <script type="text/javascript" src="https://1666210260.rsc.cdn77.org/waymarking/prebid.js"></script>
+            <script type="text/javascript">
+                var adHandler = adHandler || {cmd: []};
+                adHandler.disableConsentManagement = !Cookiebot.regulations.gdprApplies;
+            </script>
+            <script async type="text/javascript" src="https://1666210260.rsc.cdn77.org/waymarking/waymarking.release.js"></script>
+            <div id='waymarking_rhs'></div>
+        </div>
+    </div>
+</div>
+
+                    
+<div class="box">
+    <h3 id="category_lists">
+        Quick Searches</h3>
+    <div class="catlist_options">
+        <span id="ctl00_CategoryListControl1_lblWaymark" class="wmlist_label">Waymark Searches:</span>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyWaymarks" class="boldcontrols" href="/wm/search.aspx?f=1&amp;st=126&amp;wft=2">My Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkFeaturedWM" href="/wm/search.aspx?f=1&amp;st=2&amp;wft=4">Featured Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkRecentWM" href="/wm/search.aspx?f=1&amp;tp=3&amp;wst=6&amp;st=2">Newest Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkSavedWM" href="/wm/search.aspx?f=1&amp;st=4&amp;wft=2">My Unfinished Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyVisited" href="/wm/search.aspx?f=1&amp;wft=3&amp;st=66">Waymarks I've Visited</a></li>
+        </ul>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkUncategorized" href="/wm/search.aspx?f=1&amp;wst=8&amp;st=128&amp;wft=6">Newest Uncategorized Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyUncategorized" href="/wm/search.aspx?f=1&amp;wst=8&amp;st=640&amp;wft=2">My Uncategorized Waymarks</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyAssisted" href="/wm/search.aspx?f=1&amp;st=2&amp;ast=true">My Assisted Waymarks</a></li>
+        </ul>
+        <span id="ctl00_CategoryListControl1_lblCategory" class="catlist_label">Category Searches:</span>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyCategories" class="boldcontrols" href="/cat/search.aspx?f=1&amp;cst=8&amp;st=2">My Categories</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkFavorites" href="/subscribe/default.aspx?f=1&amp;st=2&amp;feature=3">Favorites</a>
+                <img id="ctl00_CategoryListControl1_imgPrem1" src="/images/icons/ispremium.gif" alt="premium&#32;only" align="absmiddle" /></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkIgnored" href="/subscribe/default.aspx?f=1&amp;st=2&amp;feature=4">Ignore List</a>
+                <img id="ctl00_CategoryListControl1_imgPrem2" src="/images/icons/ispremium.gif" alt="premium&#32;only" align="absmiddle" /></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkLargest" href="/cat/search.aspx?f=1&amp;cst=1&amp;st=2">Largest</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkNewest" href="/cat/search.aspx?f=1&amp;cst=3&amp;st=2">Newest</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkReview" href="/subscribe/default.aspx?f=1&amp;st=2&amp;feature=2">Requiring Review</a>
+                <img id="ctl00_CategoryListControl1_imgPrem3" src="/images/icons/ispremium.gif" alt="premium&#32;only" align="absmiddle" />
+            </li>
+        </ul>
+        <span id="ctl00_CategoryListControl1_lblLogs" class="wmlist_label">Visit Searches:</span>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyLogs" class="boldcontrols" href="/my/logs.aspx?f=1">My Visits</a></li>
+        </ul>
+        <span id="ctl00_CategoryListControl1_lblGroups" class="wmlist_label">Group Lists:</span>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyGroups" class="boldcontrols" href="/groups/search.aspx?f=1&amp;gst=3&amp;gft=1&amp;st=2">Groups I Manage</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkMyRegGroups" href="/groups/search.aspx?f=1&amp;gst=3&amp;gft=2&amp;st=2">Groups I Belong To</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkNewestGroups" href="/groups/search.aspx?f=1&amp;gst=3&amp;gft=3&amp;st=2">Newest Groups</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkRecruiting" href="/groups/search.aspx?f=1&amp;gft=5&amp;st=2">Recruiting Groups</a></li>
+        </ul>
+        <div id="ctl00_CategoryListControl1_uxScavengerHuntPanel">
+	
+            <span id="ctl00_CategoryListControl1_uxScavengerHunts" class="wmlist_label">Scavenger Hunts:</span>
+            <ul>
+                <li>
+                    <a id="ctl00_CategoryListControl1_lnkMyHunts" class="boldcontrols" href="/hunt/list.aspx?pt=5&amp;ht=1">My Scavenger Hunts</a></li>
+                <li>
+                    <a id="ctl00_CategoryListControl1_lnkPublicHunts" href="/hunt/list.aspx?pt=5&amp;ht=4">Newest Public Hunts</a></li>
+                <li>
+                    <a id="ctl00_CategoryListControl1_lnkActiveHunts" href="/hunt/list.aspx?pt=5&amp;ht=2">My Active Hunts</a></li>
+                <li>
+                    <a id="ctl00_CategoryListControl1_lnkCompletedHunts" href="/hunt/list.aspx?pt=5&amp;ht=3">My Completed Hunts</a></li>
+            </ul>
+        
+</div>
+        <span id="ctl00_CategoryListControl1_lblMisc" class="wmlist_label">Miscellaneous:</span>
+        <ul>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkOrigins" class="boldcontrols" href="/my/origins.aspx?f=1">My Saved Searches</a></li>
+            <li>
+                <a id="ctl00_CategoryListControl1_lnkFullCategories" href="/cat/categorydirectory.aspx?f=1">Full Category List</a></li>
+            <li>
+                </li>
+        </ul>
+        
+    </div>
+</div>
+<!--end box-->
+
+                    <!--end side content-->
+                </div>
+                <!--end gutter-->
+            </div>
+            <!--end sidebar-->
+            
+<div id='footer'>
+    <p>
+        Copyright (c) 2024 Groundspeak, Inc. All Rights Reserved.
+    </p>
+</div>
+<div id='footerlinks'>
+    <a id="ctl00_FooterControl1_lnkHome" href="/">home</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkGroundspeak" href="https://www.geocaching.com/careers/">careers</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkNews" href="/news/default.aspx">news</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkTermsOfUse" href="https://www.geocaching.com/about/termsofuse.aspx">terms of use</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkPrivacyPolicy" href="https://www.geocaching.com/about/privacypolicy.aspx">privacy policy</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkContactUs" href="/contact">contact us</a>
+    &nbsp;|&nbsp;
+    <a id="ctl00_FooterControl1_lnkHelp" href="/help/start.aspx">help</a>
+</div>
+<!-- Server: WAYMARK-WEB01 -->
+<!--end footer-->
+        </div>
+        <!--end wrap-->
+        
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var searchUrl = "/wm/search.aspx?f=1\u0026wo=True\u0026st=2";//]]>
+</script>
+<script src='/js/leaflet-src.js' data-cookieconsent='ignore'></script><script src='/js/URI.js'></script>
+<script type="text/javascript">
+//<![CDATA[
+function mapItems() {
+map.panTo([38.981354,-76.938053]);
+var markers = [{lat: 38.981354, lng: -76.938053, title: "Marathon Deli mural by Dr. Rickamortis - College Park, Maryland", icon: "murals", code: "WM1556B", cat: "415fa40f-0783-4cab-acad-d2381bd86ffd", desc: "A mash-up of freshly made food and University of Maryland icons, this 15-foot-long mural runs along the wall from the entrance to the counter at Marathon Deli in College Park, Maryland. It was painted by mural artist Dr. Rickamortis."},];
+wrapMarkers(markers);
+}
+//]]>
+</script>
+</form>
+    <script language="javascript" type="text/plain" data-cookieconsent="statistics">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-2020240-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ?
+                'https://ssl' : 'http://www') +
+                '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'true');
+            document.documentElement.firstChild.appendChild(ga);
+        })();
+    </script>
+    
+    <script type="text/javascript" src="/js/generic.js"></script>
+    
+<!-- The core Firebase JS SDK is always required and must be listed first-- >
+<!--TODO: Add SDKs for Firebase products that you want to use
+https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.0/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-performance.js"></script>
+<script>
+    const { initializeApp } = require("firebase/app");
+    const { initializeAppCheck, ReCaptchaV3Provider } = require("firebase/app-check");
+
+    const app = initializeApp({
+        // Your firebase configuration object
+    });
+
+    // Pass your reCAPTCHA v3 site key (public key) to activate(). Make sure this
+    // key is the counterpart to the secret key you set in the Firebase console.
+    const appCheck = initializeAppCheck(app, {
+        provider: new ReCaptchaV3Provider('6LcAu_UlAAAAAHdboCh0rp3mjHr1Ual1qy1FTSDO'),
+
+        // Optional argument. If true, the SDK automatically refreshes App Check
+        // tokens as needed.
+        isTokenAutoRefreshEnabled: true
+    });
+
+    // Your web app's Firebase configuration
+    var firebaseConfig = { 
+        apiKey: "AIzaSyBHfGCWidUrDmHDyXAOPQwNZpgSz718f94",
+        authDomain: "waymarking-production.firebaseapp.com",
+        databaseURL: "https://waymarking-production.firebaseio.com",
+        projectId: "waymarking-production",
+        storageBucket: "waymarking-production.appspot.com",
+        messagingSenderId: "20792087256",
+        appId: "1:20792087256:web:3e142ccf5feda5a5ca3dad",
+        measurementId: "G-LH6PJYGK3V"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+
+    var perf = firebase.performance();
+
+    function logEvent(value) {
+        firebase.analytics().logEvent(value);
+    }
+
+</script>
+
+</body>
+</html>
