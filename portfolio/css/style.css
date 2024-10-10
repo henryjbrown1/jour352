@@ -1,0 +1,28 @@
+.main {
+    background-color: #b3f1b7;
+    color: #051266;
+}
+
+.img-fluid {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container-fluid {
+    padding-top: 2rem;
+}
+
+.text_section {
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    text-align: center;
+}
