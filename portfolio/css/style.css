@@ -1,18 +1,19 @@
 .main {
-    background-color: #b3f1b7;
+    background-color: #e1e8f6;
     color: #051266;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .img-fluid {
     width: 100%;
-    height: 500px;
+    height: 400px;
     object-fit: cover;
     padding-left: 1rem;
     padding-right: 1rem;
 }
 
 .container-fluid {
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 
 .text_section {
@@ -25,4 +26,12 @@
 
 h1 {
     text-align: center;
+}
+
+#fitting-image {
+    object-position: 83% 17%;
+}
+
+#fitting-image2 {
+    object-position: 83% 17%;
 }
