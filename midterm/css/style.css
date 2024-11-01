@@ -1,0 +1,24 @@
+.top {
+    background-color: #070707;
+    color: #f7f7fa;
+    font-family: ufonts.com_prompt, sans-serif;
+    padding: 5px;
+}
+
+.main {
+    background-color: #fefefe;
+    color: #11151c;
+    font-family: ufonts.com_figtree, sans-serif;
+}
+
+.main2 {
+    background-color: #070707;
+    color: #f7f7fa;
+    padding: 18px;
+}
+
+.main3 {
+    background-color: #070707;
+    color: #f7f7fa;
+    padding: 0px
+}
