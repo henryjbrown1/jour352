@@ -1,0 +1,19 @@
+.top {
+    text-align: center;
+    background-color: rgb(159, 6, 6);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    text-align: left;
+    background-color: rgb(243, 227, 207);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 18px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(243, 227, 207);
+}
